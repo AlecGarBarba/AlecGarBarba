@@ -16,3 +16,22 @@ Here are some ideas to get you started:
 -->
 
 [![Alec's github stats](https://github-readme-stats.vercel.app/api?username=AlecGarBarba&theme=radical)](https://github.com/AlecGarBarba/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aAlecGarBarba&layout=compact)](https://github.com/AlecGarBarba/github-readme-stats
+
+
+
+
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![Instagram][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://www.flaticon.es/svg/static/icons/svg/733/733579.svg (Instagram icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/alecbarba
+[2]: https://www.instagram.com/alecgrbarba
