@@ -1,25 +1,22 @@
-<h1><p align="center">Hello, I'm Alec Barba! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
-
 <p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
+ src="./assets/banner.png" width="90%"/></p>
 
-<p align="center">I'm a software Engineer with a Msc. in engineering sciences<br/>I work as a full stack engineer, and love working on data-centered/ML projects.<br>
+<p align="center">I'm a software developer with a Msc. in engineering sciences<br/>I work as a full stack engineer, and enjoy doing data-centered/ML projects.<br>
 
 <summary><h2> What I currently do</h2></summary>
 
-- 🔭 I'm developing neuro-ap.com platform, doing automation/AI projects with Vaetro<>, as well as freelancing.
-- 🌱 I’m currently learning TDD, and getting better with Typescript.
+- 🔭 I'm developing neuro-ap.com platform, and freelancing automation/AI projects with Vaetro, a little brand of mine.
+- 🌱 I’m currently learning learning Nest.js, focusing on typescript and graphql.
 - 👯 I’m looking to collaborate on Typescript / Node related projects.
 - 💬 Ask me about Node.js, React, or anything Data Science/ ML related!
 
 <summary><h2> Connect with me</h2></summary>
 
-<p align = "center">
+<p  >
  
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://alecgrbarba.web.app/) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alecgarbarba/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/alecgrarbarba/)  
-[![Visits Badge](https://badges.pufler.dev/visits/RahulMahesh62/RahulMahesh62?style=for-the-badge)](https://github.com/alecgrbarba)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/alecgrarbarba/)
 
 </p>
 
@@ -43,15 +40,15 @@
 
 ### Backend
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />    
+<div align="center">    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="Typescript" height="75">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /> <!--PosgteSQL, GRAPHQL-->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" />
-
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" /> 
+ 
 </div>
 
 </td><td valign="top" width="33%">
@@ -78,7 +75,8 @@
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />
+<img style="margin: 10px" src="https://camo.githubusercontent.com/b0309c36af6502bcd652f38db94a5313bb9766d0308d0694b5fb092e9f695d07/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f61726475696e6f2e706e67" alt="Arduino" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 </div>
 
@@ -87,6 +85,7 @@
 <summary><h2> Github Stats</h2> </summary>
 
 <br> 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=AlecGarBarba&theme=radical&count_private=true&show_icons=true"> 
+<p align = "start">
+  <img src = "https://github-readme-stats.vercel.app/api?username=AlecGarBarba&theme=tokyonight&count_private=true&show_icons=true">
+
 </p>
