@@ -5,7 +5,7 @@
 
 <summary><h2> What I currently do</h2></summary>
 
-- 🔭 I'm developing neuro-ap.com platform, and freelancing automation/AI projects with Vaetro, a little brand of mine.
+- 🔭 I'm working at ArkusNexus as a full stack developer.
 - 🌱 I’m currently learning Nest.js, focusing on typescript and graphql.
 - 👯 I’m looking to collaborate on Typescript / Node related projects.
 - 💬 Ask me about Node.js, React, or anything Data Science/ ML related!
