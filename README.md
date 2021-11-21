@@ -5,9 +5,8 @@
 
 <summary><h2> What I currently do</h2></summary>
 
-- 🔭 I'm working at ArkusNexus as a full stack developer.
-- 🌱 I’m currently learning Nest.js, focusing on typescript and graphql.
-- 👯 I’m looking to collaborate on Typescript / Node related projects.
+- 🔭 I'm working at ArkusNexus/Drata as a full stack engineer. 
+- 👯 I’m looking to collaborate on Typescript / Nestjs related projects.
 - 💬 Ask me about Node.js, React, or anything Data Science/ ML related!
 
 <summary><h2> Connect with me</h2></summary>
