@@ -85,6 +85,6 @@
 
 <br> 
 <p align = "start">
-  <img src = "https://github-readme-stats.vercel.app/api?username=AlecGarBarba&theme=tokyonight&count_private=true&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlecGarBarba&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="AlecGarBarba's GitHub Stats">
 
 </p>
