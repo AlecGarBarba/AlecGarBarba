@@ -1,90 +1,93 @@
-<p align="center" ><img 
- src="./assets/banner.png" width="90%"/></p>
-
-<p align="center">I'm a software developer with a Msc. in engineering sciences<br/>I work as a full stack engineer, and enjoy doing data-centered/ML projects.<br>
-
-<summary><h2> What I currently do</h2></summary>
-
-- 🔭 I'm working at ArkusNexus/Drata as a full stack engineer. 
-- 👯 I’m looking to collaborate on Typescript / Nestjs related projects.
-- 💬 Ask me about Node.js, React, or anything Data Science/ ML related!
-
-<summary><h2> Connect with me</h2></summary>
-
-<p  >
- 
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://alecgrbarba.web.app/) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alecgarbarba/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/alecgrarbarba/)
-
+<p align="center"><img src="./assets/banner.png" width="90%"/></p>
+<p align="center">
+  Engineering Manager at <a href="https://drata.com">Drata</a> · MSc Engineering Sciences · TypeScript · Go · AI-first teams
 </p>
 
-## My Skill Set
+---
 
-<table><tr><td valign="top" width="33%">
+- Engineering manager first, engineer always
+- Agentic development, Spec Driven Development, human-in-the-loop — AI does most of the work, I make sure it does the right things.
+- Quality-obsessed — BDD philosophy, tests as design AND documentation, observability as a habit
+- Built Growthfactor — a platform around the idea that if you grow your people, everyone wins
+
+---
+
+## Currently
+
+- 🎯 Leading engineering teams with empathy and badly-timed jokes
+- 🤖 Agentic workflows, observability, and making working with AI as ethically as the world allows me to
+- 🌎 Working with distributed teams across the Americas
+
+---
+
+## Stack
+
+<table><tr>
+<td valign="top" width="33%">
 
 ### Frontend
 
-<div align="center">   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="Typescript" height="75">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="75" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="JavaScript" height="75" />
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" />
 </div>
 
 </td><td valign="top" width="33%">
 
 ### Backend
 
-<div align="center">    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="Typescript" height="75">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /> <!--PosgteSQL, GRAPHQL-->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" /> 
- 
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="60" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="60" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="PostgreSQL" height="60" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="60" />
 </div>
 
 </td><td valign="top" width="33%">
 
-### Machine Learning
+### Infrastructure
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />   
-</div>
-
-### DevOps
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div>
-
-### Others
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />
-<img style="margin: 10px" src="https://camo.githubusercontent.com/b0309c36af6502bcd652f38db94a5313bb9766d0308d0694b5fb092e9f695d07/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f61726475696e6f2e706e67" alt="Arduino" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="60" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" />
 </div>
 
 </td></tr></table>
-<br/>
-<summary><h2> Github Stats</h2> </summary>
 
-<br> 
-<p align = "start">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlecGarBarba&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="AlecGarBarba's GitHub Stats">
+<p align="center">
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeORM-FE0902.svg?style=for-the-badge&logo=typeorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Temporal-000000.svg?style=for-the-badge&logo=temporal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20CLI-CC785C.svg?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" />
+</p>
 
+---
+
+## Projects
+
+### Growthfactor
+
+A platform built around one idea: if you grow your people, everyone wins.  
+Helps companies evaluate their teams objectively and invest in the right growth levers.  
+**NestJS · React · PostgreSQL · Docker · AWS · full infra from scratch**
+
+---
+
+## Connect
+
+<p>
+  <a href="https://alecgrbarba.web.app/"><img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alecgarbarba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlecGarBarba&theme=tokyo-night" alt="AlecGarBarba's GitHub activity graph" />
 </p>
